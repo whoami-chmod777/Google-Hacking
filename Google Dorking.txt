@@ -1,6 +1,5 @@
 13759 Google Dorking !!!
 
-
 !Host=*.* intext:enc_UserPassword=* ext:pcf
 !Host=. intext:enc_UserPassword= ext:pcf
 " -FrontPage-" ext:pwd inurl:(service | authors | administrators | users)
